@@ -1,6 +1,6 @@
 @media(min-width:372px) and (max-width:768px) {
     .container {
-        width: 350px;
+        width: 300px;
     }
     .col {
         padding: 8px;
