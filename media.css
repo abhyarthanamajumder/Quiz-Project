@@ -1,0 +1,12 @@
+@media(min-width:372px) and (max-width:768px) {
+    .container {
+        width: 395px;
+    }
+    .col {
+        padding: 8px;
+    }
+    .box {
+        font-size: 18px;
+        border: 2px solid yellow;
+    }
+}
